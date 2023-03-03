@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Discard selection</name>
+   <tag></tag>
+   <elementGuidId>f9d18a41-8a83-41f7-9be0-b9fa0580badd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#discard</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='discard']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d4c7a96-2ff7-4472-ab1e-a75a19e35a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>discard</value>
+      <webElementGuid>1fc3ba9d-4282-422b-b395-10847d66858c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info</value>
+      <webElementGuid>998ddac0-f6aa-422c-b4d2-6a9bf37539fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discard selection</value>
+      <webElementGuid>6d2812af-2526-4bb6-b82f-66793aad4fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discard&quot;)</value>
+      <webElementGuid>13a2cae4-e4f0-4754-85b5-f70d72f9361c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='discard']</value>
+      <webElementGuid>b8558d37-17c1-450c-bf13-010b8be4a5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bd-wrapper']/div[2]/button[5]</value>
+      <webElementGuid>c2b73e69-752f-489f-a13d-8b7cb1073867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add more shapes'])[1]/following::button[1]</value>
+      <webElementGuid>6459daa1-040e-4048-be1e-48a19428f2db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a multiselection'])[1]/following::button[2]</value>
+      <webElementGuid>5f549883-db7c-4b4c-8488-3a9c6bcacd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::button[1]</value>
+      <webElementGuid>82742b27-c3c8-4079-b8c9-4428d1cd8c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='function'])[1]/preceding::button[1]</value>
+      <webElementGuid>20e037a1-ee35-48fc-9b3e-1a035c3ce5cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Discard selection']/parent::*</value>
+      <webElementGuid>cdb90bb1-8eab-4701-becf-b6647f1dd2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[5]</value>
+      <webElementGuid>c8721387-2a67-4bbe-bf24-2f43d94bdf61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'discard' and (text() = 'Discard selection' or . = 'Discard selection')]</value>
+      <webElementGuid>1c5f643f-e5d7-496c-ade8-e446caa30d5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

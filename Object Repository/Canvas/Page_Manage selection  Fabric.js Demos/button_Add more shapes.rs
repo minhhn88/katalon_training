@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add more shapes</name>
+   <tag></tag>
+   <elementGuidId>5d690e2f-b43e-4007-8784-cf51b80161f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#addmore</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addmore']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b927d007-0c45-4ceb-80f9-8e7c2d1fcd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addmore</value>
+      <webElementGuid>1344a114-69bd-4417-bf73-4d64964b3be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info</value>
+      <webElementGuid>bc537b75-f1e4-41a8-b060-71282cc09ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add more shapes</value>
+      <webElementGuid>a9658aae-a90b-448e-a914-bc8e8341ac19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addmore&quot;)</value>
+      <webElementGuid>ae7ab504-80f4-4149-b769-08d632434c63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='addmore']</value>
+      <webElementGuid>d5e1a57a-49e1-4347-997b-2e78abcba4af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bd-wrapper']/div[2]/button[4]</value>
+      <webElementGuid>2bbba44f-7c97-4521-85a7-b7570ebcfd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a multiselection'])[1]/following::button[1]</value>
+      <webElementGuid>ec9056d4-edbc-4bfa-a664-61897b3fdd2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ungroup selected objects'])[1]/following::button[2]</value>
+      <webElementGuid>70733f07-3654-4385-ba0a-7e46ce988dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discard selection'])[1]/preceding::button[1]</value>
+      <webElementGuid>a1ca488c-2d1c-4631-8f1a-14d10df437d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::button[2]</value>
+      <webElementGuid>32695101-e02b-4936-a60c-4a047c8d0b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add more shapes']/parent::*</value>
+      <webElementGuid>7420dad7-9cea-4a97-bdbf-40319d022e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>1997cf26-74f7-4ca8-bf52-17f0e5c738fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addmore' and (text() = 'Add more shapes' or . = 'Add more shapes')]</value>
+      <webElementGuid>b0f422b5-f1c9-4b22-b1d1-b82fd14925e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

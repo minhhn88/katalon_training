@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Make a multiselection</name>
+   <tag></tag>
+   <elementGuidId>d5af5e69-f01e-4280-8f84-3235819e734b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#multiselect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='multiselect']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b729712-b600-454d-814f-e1b30e3cae55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multiselect</value>
+      <webElementGuid>c6da623b-5e10-4ca6-8b3e-1ba157758c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info</value>
+      <webElementGuid>059c36e0-0703-4687-9ce0-86dee361fb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make a multiselection</value>
+      <webElementGuid>ec67151e-82e6-419e-9f36-370d7e8d4942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;multiselect&quot;)</value>
+      <webElementGuid>e3e1e70f-fe99-4a1e-818f-411e49c41887</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='multiselect']</value>
+      <webElementGuid>20137b3b-d960-4c42-a517-18ca6e940c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bd-wrapper']/div[2]/button[3]</value>
+      <webElementGuid>09de80e7-bcfe-4a1b-b51e-186c46034a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ungroup selected objects'])[1]/following::button[1]</value>
+      <webElementGuid>34536440-97ac-443a-b8fb-2107f2eac35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group selected objecs'])[1]/following::button[2]</value>
+      <webElementGuid>dfdf4038-28de-48d1-817f-f3e47f855656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add more shapes'])[1]/preceding::button[1]</value>
+      <webElementGuid>84f3893a-d97f-4246-999b-41ea2fdfabc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discard selection'])[1]/preceding::button[2]</value>
+      <webElementGuid>08af72f9-fc4a-4d85-af5b-148e8db84c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make a multiselection']/parent::*</value>
+      <webElementGuid>7b9e95e0-5dfe-4a13-9c2c-a5cfbb4bc0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>1792fb6b-4fd3-4903-ac22-528d103c6049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'multiselect' and (text() = 'Make a multiselection' or . = 'Make a multiselection')]</value>
+      <webElementGuid>c18b7437-313c-40e1-8aa4-578a87520015</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
